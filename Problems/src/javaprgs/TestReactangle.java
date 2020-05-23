@@ -2,7 +2,6 @@ package javaprgs;
 
 import java.util.Scanner;
 
-
 public class TestReactangle {
 
 	public static void main(String[] args) {

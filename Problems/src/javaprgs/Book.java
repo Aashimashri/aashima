@@ -1,6 +1,7 @@
 package javaprgs;
 
-public class Book {
+public class Book 
+{
 	private int bookNo;
 	private String title;
 	private String Publication;

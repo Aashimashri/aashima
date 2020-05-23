@@ -1,6 +1,7 @@
 package javaprgs;
 
-public class Mathematics {
+public class Mathematics 
+{
 	private String type;
 
 	public String getType() {

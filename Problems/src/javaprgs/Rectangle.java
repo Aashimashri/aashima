@@ -1,6 +1,7 @@
 package javaprgs;
 
-public class Rectangle {
+public class Rectangle 
+{
 
 	private double height;
 	private double width;

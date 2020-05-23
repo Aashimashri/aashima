@@ -1,7 +1,8 @@
 package javaprgs;
 
 import java.util.Scanner;
-public class EmpData {
+public class EmpData 
+{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

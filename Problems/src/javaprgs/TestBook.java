@@ -1,5 +1,4 @@
 package javaprgs;
-
 import java.util.Scanner;
 
 public class TestBook {

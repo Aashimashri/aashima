@@ -1,6 +1,7 @@
 package javaprgs;
 
-public class Emp {
+public class Emp 
+{
 	private int EmpNo;
 	private String Empname;
 	private int empSal;

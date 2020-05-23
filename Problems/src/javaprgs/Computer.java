@@ -1,6 +1,7 @@
 package javaprgs;
 
-public class Computer {
+public class Computer 
+{
 
 	private String type;
 

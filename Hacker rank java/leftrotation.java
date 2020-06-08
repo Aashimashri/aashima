@@ -9,11 +9,7 @@ import java.util.Arrays;
 
 public class Solution {
     
-
-
-
-
-    private static final Scanner scanner = new Scanner(System.in);
+ private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
